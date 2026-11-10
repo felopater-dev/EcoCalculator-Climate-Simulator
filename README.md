@@ -20,12 +20,12 @@ A **simple prototype** designed to help classmates and school friends calculate 
 
 * **C++:** Handles the backend logic, mathematical calculations, and simulation calculations efficiently.
 * **HTML5:** Provides the structural markup for the web interface.
+* **CSS3:** Delivers responsive styling, clean typography, and UI presentation.
+---
 
 ##Resources
 ***https://www.un.org/en/actnow/ten-actions
 ***https://youth.europa.eu/get-involved/sustainable-development/how-reduce-my-carbon-footprint_en
-* **CSS3:** Delivers responsive styling, clean typography, and UI presentation.
----
+----
 
-git clone [https://github.com/your-username/EcoCalculator-Climate-Simulator.git](https://github.com/your-username/EcoCalculator-Climate-Simulator.git)
-cd EcoCalculator-Climate-Simulator
+by felopater hany
